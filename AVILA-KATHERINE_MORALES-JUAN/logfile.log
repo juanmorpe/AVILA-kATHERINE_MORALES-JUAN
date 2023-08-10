@@ -1,0 +1,35 @@
+[2023-08-10 07:40:15] [ INFO ] [OdontologoDaoH2:77] Listado de todos los odontólogos: [
+Id: 1 - Número de Matricula: 1 - Nombre: Pedro - Apellido: Picapiedra]
+[2023-08-10 07:40:32] [ INFO ] [OdontologoDaoH2:39] Odontólogo guardado: 
+Id: 2 - Número de Matricula: 1 - Nombre: Pedro - Apellido: Picapiedra
+[2023-08-10 07:40:40] [ INFO ] [OdontologoDaoH2:77] Listado de todos los odontólogos: [
+Id: 1 - Número de Matricula: 1 - Nombre: Pedro - Apellido: Picapiedra, 
+Id: 2 - Número de Matricula: 1 - Nombre: Pedro - Apellido: Picapiedra]
+[2023-08-10 07:41:00] [ INFO ] [OdontologoDaoH2:39] Odontólogo guardado: 
+Id: 3 - Número de Matricula: 1 - Nombre: Pedro - Apellido: Picapiedra
+[2023-08-10 08:18:36] [ ERROR] [OdontologoDaoH2:42] Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2023-08-10 09:10:42] [ INFO ] [OdontologoDaoEnMemoria:20] Odontólogo guardado: 
+Id: 0 - Número de Matricula: 1 - Nombre: Pedro - Apellido: Picapiedra
+[2023-08-10 09:17:10] [ INFO ] [OdontologoDaoEnMemoria:27] Listado de todos los odontólogos: 
+[]
+[2023-08-10 09:17:35] [ INFO ] [OdontologoDaoEnMemoria:27] Listado de todos los odontólogos: 
+[]
+[2023-08-10 09:18:07] [ INFO ] [OdontologoDaoEnMemoria:27] Listado de todos los odontólogos: 
+[]
+[2023-08-10 09:18:51] [ INFO ] [OdontologoDaoEnMemoria:27] Listado de todos los odontólogos: 
+[]
+[2023-08-10 09:18:51] [ INFO ] [OdontologoDaoEnMemoria:20] Odontólogo guardado: 
+Id: 0 - Número de Matricula: 1 - Nombre: Pedro - Apellido: Picapiedra
+[2023-08-10 09:19:13] [ INFO ] [OdontologoDaoEnMemoria:27] Listado de todos los odontólogos: 
+[]
+[2023-08-10 09:19:13] [ INFO ] [OdontologoDaoEnMemoria:20] Odontólogo guardado: 
+Id: 0 - Número de Matricula: 1 - Nombre: Pedro - Apellido: Picapiedra
+[2023-08-10 09:19:26] [ INFO ] [OdontologoDaoEnMemoria:27] Listado de todos los odontólogos: 
+[]
+[2023-08-10 09:19:26] [ INFO ] [OdontologoDaoEnMemoria:20] Odontólogo guardado: 
+Id: 0 - Número de Matricula: 2 - Nombre: juan - Apellido: Picapiedra
+[2023-08-10 09:29:56] [ INFO ] [OdontologoDaoEnMemoria:27] Listado de todos los odontólogos: 
+[]
+[2023-08-10 09:29:56] [ INFO ] [OdontologoDaoEnMemoria:20] Odontólogo guardado: 
+Id: 0 - Número de Matricula: 2 - Nombre: juan - Apellido: Picapiedra
